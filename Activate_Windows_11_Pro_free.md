@@ -16,3 +16,7 @@ ctrl+shift+enter
 now you have something like this:
 
 ![image](https://user-images.githubusercontent.com/66115754/134801445-9b90e121-350b-42ea-afec-b499f1fbfae9.png)
+
+Now, click on "yes"
+now you have somethign like this:
+
