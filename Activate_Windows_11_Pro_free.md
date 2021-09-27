@@ -78,3 +78,4 @@ Now you will get an Command Prompt.
 Just wait until it says "<Product activation succesful>"
 It will also ask if  you want to see anyone's blog, Click "Y" if you want to see it and "N" if you don't want to
 Now you have Windows 11 Pro and it activated! You can check settings to see it.
+I hope you enjoy it!
