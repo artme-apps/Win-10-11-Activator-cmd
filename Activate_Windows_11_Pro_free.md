@@ -71,4 +71,10 @@ Now you should have an screen like this:
 
 ![image](https://user-images.githubusercontent.com/66115754/134921836-ccf0979f-f095-4bb0-a17e-c53fc15a170f.png)
 Click on "Downloads"
-Now click on "Activate_W"
+Now click on "Activate_Windows.bat"
+Right click on the file now and click on "Run as administrator"
+You will get an message, just click on OK
+Now you will get an Command Prompt.
+Just wait until it says "<Product activation succesful>"
+It will also ask if  you want to see anyone's blog, Click "Y" if you want to see it and "N" if you don't want to
+Now you have Windows 11 Pro and it activated! You can check settings to see it.
