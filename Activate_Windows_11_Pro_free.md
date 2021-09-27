@@ -40,7 +40,7 @@ If you see "Professional" in the list, then you can upgrade your Windows edition
 Now, copy and paste this complete command:
 
 ``sc config LicenseManager start= auto & net start LicenseManager``
-  sc config wuauserv start= auto & net start wuauserv``
+``sc config wuauserv start= auto & net start wuauserv``
 
 ``changepk.exe /productkey VK7JG-NPHTM-C97JM-9MPGT-3V66T``
 
