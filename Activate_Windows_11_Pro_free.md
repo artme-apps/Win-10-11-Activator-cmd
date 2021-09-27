@@ -40,9 +40,14 @@ If you see "Professional" in the list, then you can upgrade your Windows edition
 Now, copy and paste this complete command:
 
 ``sc config LicenseManager start= auto & net start LicenseManager``
+
 ``sc config wuauserv start= auto & net start wuauserv``
 
 ``changepk.exe /productkey VK7JG-NPHTM-C97JM-9MPGT-3V66T``
 
 ``exit``
+It will run an installer and you will see an message:"% complete"
+Now wait until it's 100% and it's not weird that you will get an error
+When you get the error, just click Exit and then reboot your pc.
+You will now see an message that he is running updates and is installing features, just wait until its done and check "info" in settings, You will see that Windows 11 Pro is installed! But we are not done, You will see that it is'nt activated and that you can't change some settings, now we are gonna fix that!
 
