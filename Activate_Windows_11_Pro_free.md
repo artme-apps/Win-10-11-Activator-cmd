@@ -42,7 +42,7 @@ It will give an message once again, and click on OK again
 And now type this command:
 ``slmgr.vbs /ckms``
 Once again click on OK when you get an message
-### Check of upgradable command
+### Edition upgradable check command
 Now we are gonna check of your edition is supported to upgrade to Pro, run the following command to check this:
 ``DISM /online /Get-TargetEditions``
 If you see "Professional" in the list, then you can upgrade your Windows edition to Pro for free!
