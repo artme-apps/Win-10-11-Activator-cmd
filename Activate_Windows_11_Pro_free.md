@@ -7,19 +7,25 @@ The answer is yes! You can switch from almost any edition to Pro completely for 
 People which already have Pro, but not activated, can skip to [this step](https://gist.github.com/Minionguyjpro/d913b3931e844ad8ad9a758a4aca4b63#activating-windows-pro).
 ## Getting started
 What you first need to do is open CMD (Command Prompt) as Administrator using this keyboard key:
+
 Windows-logo key+ R
+
 And now type in "cmd.exe" in the box
+
 It should now look as something like this:
 
 ![image](https://user-images.githubusercontent.com/66115754/134801377-b9769c34-8a9d-4d4f-ba8e-6c073f1ce4a2.png)
 
 Now press this keys on your keyboard:
+
 ctrl+shift+enter
+
 now you have something like this:
 
 ![image](https://user-images.githubusercontent.com/66115754/134801445-9b90e121-350b-42ea-afec-b499f1fbfae9.png)
 
 Now, click on "yes"
+
 now you have something like this:
 
 ![image](https://user-images.githubusercontent.com/66115754/134807479-53ccdaf9-feb0-49a3-9843-5bb4db016128.png)
@@ -28,9 +34,11 @@ now you have something like this:
 Now, type the following command:
 ``slmgr.vbs /upk``
 Now it will give an message, click on OK
+
 And now this command:
 ``slmgr.vbs /cpky``
 It will give an message once again, and click on OK again
+
 And now type this command:
 ``slmgr.vbs /ckms``
 Once again click on OK when you get an message
@@ -49,33 +57,54 @@ Now, copy and paste this complete command:
 
 ``exit``
 It will run an installer and you will see an message:"% complete"
+
 Now wait until it's 100% and it's not weird that you will get an error
+
 When you get the error, just click Exit and then reboot your pc.
-You will now see an message that he is running updates and is installing features, just wait until its done and check "info" in settings, You will see that Windows 11 Pro is installed! But we are not done, You will see that it is'nt activated and that you can't change some settings, now we are gonna fix that!
+
+You will now see an message that he is running updates and is installing features, just wait until its done and check "info" in settings, You will see that Windows 11 Pro is installed! 
+
+But we are not done, You will see that it is'nt activated and that you can't change some settings, now we are gonna fix that!
 ## Activating Windows Pro
 Now we are gonna run a batch script to activate Windows 11 Pro
+
 Download the file from [here](https://www.mediafire.com/file/w85g92z780jg1f2/activate_Windows.bat/file)
+
 Click these keyboard keys once again:
+
 Windows-logo key+R
+
 It looks like this again:
 
 ![image](https://user-images.githubusercontent.com/66115754/134801377-b9769c34-8a9d-4d4f-ba8e-6c073f1ce4a2.png)
 
 Now type "explorer.exe" in the box
+
 Now it should look like this:
 
 ![image](https://user-images.githubusercontent.com/66115754/134921690-8998b5a0-a9ed-4f1c-be57-75916e5b5077.png)
 
 Now just press Enter
+
 Now you should have an screen like this:
 
 ![image](https://user-images.githubusercontent.com/66115754/134921836-ccf0979f-f095-4bb0-a17e-c53fc15a170f.png)
+
 Click on "Downloads"
+
 Now click on "Activate_Windows.bat"
+
 Right click on the file now and click on "Run as administrator"
+
 You will get an message, just click on OK
+
 Now you will get an Command Prompt.
+
 Just wait until it says "<Product activation succesful>"
+  
 It will also ask if  you want to see anyone's blog, Click "Y" if you want to see it and "N" if you don't want to
+ 
 Now you have Windows 11 Pro and it activated! You can check settings to see it.
+
 I hope you enjoy it!
+  
