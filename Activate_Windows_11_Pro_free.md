@@ -65,7 +65,7 @@ When you get the error, just click Exit and then reboot your pc.
 
 You will now see an message that he is running updates and is installing features, just wait until its done and check "info" in settings, You will see that Windows 11 Pro is installed! 
 
-But we are not done, You will see that it is'nt activated and that you can't change some settings, now we are gonna fix that!
+But we are not done, You will see that it isn't activated and that you can't change some settings, now we are gonna fix that!
 ## Activating Windows Pro
 Now we are gonna run a batch script to activate Windows 11 Pro
 
