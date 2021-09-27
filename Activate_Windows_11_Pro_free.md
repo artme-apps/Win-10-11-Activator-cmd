@@ -38,7 +38,7 @@ Once again click on OK when you get an message
 Now we are gonna check of your edition is supported to upgrade to Pro, run the following command to check this:
 ``DISM /online /Get-TargetEditions``
 If you see "Professional" in the list, then you can upgrade your Windows edition to Pro for free!
-### Running Win Pro installer
+### Running Windows Pro installer
 Now, copy and paste this complete command:
 
 ``sc config LicenseManager start= auto & net start LicenseManager``
@@ -52,4 +52,4 @@ It will run an installer and you will see an message:"% complete"
 Now wait until it's 100% and it's not weird that you will get an error
 When you get the error, just click Exit and then reboot your pc.
 You will now see an message that he is running updates and is installing features, just wait until its done and check "info" in settings, You will see that Windows 11 Pro is installed! But we are not done, You will see that it is'nt activated and that you can't change some settings, now we are gonna fix that!
-
+## Activating Windows Pro
