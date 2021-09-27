@@ -100,7 +100,7 @@ You will get an message, just click on OK
 
 Now you will get an Command Prompt.
 
-Just wait until it says "<<roduct activation succesful>>"
+Just wait until it says "&lt;roduct activation succesful&gt;"
   
 It will also ask if  you want to see anyone's blog, Click "Y" if you want to see it and "N" if you don't want to
  
