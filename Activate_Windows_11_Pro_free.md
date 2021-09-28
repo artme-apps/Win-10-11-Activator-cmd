@@ -20,13 +20,13 @@ Now press this keys on your keyboard:
 
 ctrl+shift+enter
 
-now you have something like this:
+Now you have something like this:
 
 ![image](https://user-images.githubusercontent.com/66115754/134801445-9b90e121-350b-42ea-afec-b499f1fbfae9.png)
 
 Now, click on "yes"
 
-now you have something like this:
+Now you have something like this:
 
 ![image](https://user-images.githubusercontent.com/66115754/134807479-53ccdaf9-feb0-49a3-9843-5bb4db016128.png)
 
