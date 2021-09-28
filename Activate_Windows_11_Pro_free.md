@@ -71,7 +71,7 @@ Now we are gonna run a batch script to activate Windows 11 Pro
 
 Download the file from [here](https://www.mediafire.com/file/w85g92z780jg1f2/activate_Windows.bat/file)
 
-Click these keyboard keys once again:
+Press these keyboard keys once again:
 
 Windows-logo key+R
 
