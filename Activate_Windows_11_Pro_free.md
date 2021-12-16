@@ -106,6 +106,9 @@ Just wait until it says: "&lt;product activation succesful&gt;"
 It will also ask if  you want to see anyone's blog, Click "Y" if you want to see it and "N" if you don't want to
  
 Now you have Windows 11 Pro and it activated! You can check settings to see it.
+# Video Tutorial
+There is also an video tutorial to make it easy to follow
+[![Video Tutorial](https://img.youtube.com/vi/Q132Tr40z_8/0.jpg)](https://www.youtube.com/watch?v=Q132Tr40z_8)
 
 I hope you enjoy it!
 If you have any further questions, you can email me at "Minionguyjpro@gmail.com" or comment on this guide.
