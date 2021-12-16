@@ -107,11 +107,9 @@ It will also ask if  you want to see anyone's blog, Click "Y" if you want to see
  
 Now you have Windows 11 Pro and it activated! You can check settings to see it.
 # Video Tutorial
-There is also an video tutorial to make it easy to follow
+There is also an video tutorial to make it easy to follow. Click on the image below to see the video tutorial on YouTube.
 
-```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q132Tr40z_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+[![Video Tutorial](https://img.youtube.com/vi/Q132Tr40z_8/0.jpg)](https://www.youtube.com/watch?v=Q132Tr40z_8)
 
 I hope you enjoy it!
 If you have any further questions, you can email me at "Minionguyjpro@gmail.com" or comment on this guide.
