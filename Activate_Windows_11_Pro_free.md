@@ -75,7 +75,7 @@ Windows-logo key+R
 
 It looks like this again:
 
-https://user-images.githubusercontent.com/66115754/134801377-b9769c34-8a9d-4d4f-ba8e-6c073f1ce4a2.png
+![Run Dialog With cmd.exe Text In It](https://user-images.githubusercontent.com/66115754/134801377-b9769c34-8a9d-4d4f-ba8e-6c073f1ce4a2.png)
 
 Press ctrl+shift+enter
 
