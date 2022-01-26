@@ -90,7 +90,7 @@ Type the following commands one for one to activate:
 ``slmgr /skms kms8.msguides.com``
 
 ``slmgr /ato``
- 
+ **Note**: This does not always work. When running ``slmgr /ato`` it does not always work, but keep trying.
 Now you have Windows 11 Pro and it activated! You can check settings to see it.
 # Video Tutorial
 There is also an video tutorial to make it easy to follow. Click on the image below to see the video tutorial on YouTube.
