@@ -8,7 +8,7 @@ People which already have Pro, but not activated, can skip to [this step](https:
 ## Getting started
 What you first need to do is open CMD (Command Prompt) as Administrator using this keyboard key:
 
-<kbd><img src="https://svgshare.com/i/dg_.svg" width="11"></kbd> + <kbd>X</kbd>
+<kbd><img src="https://svgshare.com/i/dg_.svg" width="11"></kbd> + <kbd>R</kbd>
 
 And now type in ``cmd.exe`` in the box
 
