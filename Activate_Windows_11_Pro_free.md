@@ -71,7 +71,7 @@ Now we are gonna run some other commands to activate Windows 11 Pro
 
 Press these keyboard keys once again:
 
-<kbd><img src="https://svgshare.com/i/dg_.svg" width="11"></kbd> + <kbd>X</kbd>
+<kbd><img src="https://svgshare.com/i/dg_.svg" width="11"></kbd> + <kbd>R</kbd>
 
 It looks like this again:
 
