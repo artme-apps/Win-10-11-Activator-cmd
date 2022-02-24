@@ -77,7 +77,7 @@ It looks like this again:
 
 ![Run Dialog With cmd.exe Text In It](https://user-images.githubusercontent.com/66115754/134801377-b9769c34-8a9d-4d4f-ba8e-6c073f1ce4a2.png)
 
-Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd + <kbd>Enter</kbd>
+Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>
 
 You will get an message, just click on ``Yes``
 
