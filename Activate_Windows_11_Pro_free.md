@@ -5,6 +5,8 @@ Because you will get some more features like an Bitlocker and host your device a
 The answer is yes! You can switch from almost any edition to Pro completely for free!
 ## Note for users with unactivated Pro edition
 People which already have Pro, but not activated, can skip to [this step](https://gist.github.com/Minionguyjpro/d913b3931e844ad8ad9a758a4aca4b63#activating-windows-pro).
+## I get a notification: ``Your Windows license will expire soon`` or something that way. What do i do?
+Don't worry. It will get renewed, if not then i will update this guide as soon as i can and make sure it is up-to-date so you can stay enjoy your free license.
 ## Getting started
 What you first need to do is open CMD (Command Prompt) as Administrator using this keyboard key:
 
