@@ -35,6 +35,7 @@ Now you have something like this:
 ### The commands
 Now, type the following command:
 ``slmgr.vbs /upk``
+**Note**: this will remoce your current activation key!
 Now it will give an message, click on ``OK``
 
 And now this command:
