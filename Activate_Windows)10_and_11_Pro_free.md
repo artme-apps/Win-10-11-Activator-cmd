@@ -1,4 +1,4 @@
-An guide how to activate Windows 11 Pro for free
+An guide how to activate Windows 10 AND 11 Pro for free
 ## Why?
 Because you will get some more features like an Bitlocker and host your device as an External Desktop which can be accessed through the internet
 ## Am i also able to switch from any other edition to Pro?
@@ -67,11 +67,11 @@ Now wait until it's 100% and then you get an error (This is normal, this needs t
 
 When you get the error, just click Exit and then reboot your pc.
 
-You will now see an message that he is running updates and is installing features, just wait until its done and check ``info`` in settings, You will see that Windows 11 Pro is installed! 
+You will now see an message that he is running updates and is installing features, just wait until its done and check ``info`` in settings, You will see that Windows 10/11 Pro is installed! 
 
 But we are not done, You will see that it isn't activated and that you can't change some settings, now we are gonna fix that!
 ## Activating Windows Pro
-Now we are gonna run some other commands to activate Windows 11 Pro
+Now we are gonna run some other commands to activate Windows 10/11 Pro
 
 Press these keyboard keys once again:
 
@@ -96,11 +96,9 @@ Type the following commands one for one to activate:
 ``slmgr /ato``
  
 **Note**: This does not always work. When running ``slmgr /ato`` it does not always work, but keep trying.
-Now you have Windows 11 Pro and it activated! You can check settings to see it.
+Now you have Windows 10/11 Pro and it activated! You can check settings to see it.
 # Video Tutorial
-There is also an video tutorial to make it easy to follow. Click on the image below to see the video tutorial on YouTube.
-
-[![Video Tutorial](https://img.youtube.com/vi/Q132Tr40z_8/0.jpg)](https://www.youtube.com/watch?v=Q132Tr40z_8)
+No one yet. You are allowed to make one for me and share it. Or i will add one soon.
 
 # Last Words
 I hope you enjoy it!
