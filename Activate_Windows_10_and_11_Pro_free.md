@@ -1,4 +1,14 @@
 An guide how to activate Windows 10 AND 11 Pro for free
+##### Table of Contents  
+* [Why?](#why)
+* [Am i also able to switch from any other edition to Pro?](#am-i-also-able-to-switch-from-any-other-edition-to-pro)
+* [Note for users with unactivated Pro edition](#note-for-users-with-unactivated-pro-edition)
+* [I get a notification: ``Your Windows license will expire soon`` or something that way. What do i do?](#i-get-a-notification-your-windows-license-will-expire-soon-or-something-that-way-what-do-i-do)
+* [Getting started](#getting-started)
+* [Method 1 For Activating Windows Pro](#method-1-for-activating-windows-pro)
+* [Method 2 For Activating Windows Pro](#method-2-for-activating-windows-pro)
+* [Video Tutorial](#video-tutorial)
+* [Last Words](#last-words)
 ## Why?
 Because you will get some more features like an Bitlocker and host your device as an External Desktop which can be accessed through the internet
 ## Am i also able to switch from any other edition to Pro?
