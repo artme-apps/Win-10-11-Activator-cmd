@@ -2,7 +2,7 @@ An guide how to activate Windows 10 AND 11 Pro for free
 ## Why?
 Because you will get some more features like an Bitlocker and host your device as an External Desktop which can be accessed through the internet
 ## Am i also able to switch from any other edition to Pro?
-The answer is yes! You can switch from almost any edition to Pro completely for free!
+The answer is almost yes! You can switch from almost any edition to Pro completely for free!
 ## Note for users with unactivated Pro edition
 People which already have Pro, but not activated, can skip to [this step](https://gist.github.com/Minionguyjpro/d913b3931e844ad8ad9a758a4aca4b63#activating-windows-pro).
 ## I get a notification: ``Your Windows license will expire soon`` or something that way. What do i do?
@@ -70,8 +70,8 @@ When you get the error, just click Exit and then reboot your pc.
 You will now see an message that he is running updates and is installing features, just wait until its done and check ``info`` in settings, You will see that Windows 10/11 Pro is installed! 
 
 But we are not done, You will see that it isn't activated and that you can't change some settings, now we are gonna fix that!
-## Activating Windows Pro
-Now we are gonna run some other commands to activate Windows 10/11 Pro
+## Method 1 For Activating Windows Pro
+Now we are gonna run some other commands to activate Windows 10/11 Pro.
 
 Press these keyboard keys once again:
 
@@ -97,9 +97,22 @@ Type the following commands one for one to activate:
  
 **Note**: This does not always work. When running ``slmgr /ato`` it does not always work, but keep trying.
 Now you have Windows 10/11 Pro and it activated! You can check settings to see it.
+## Method 2 For Activating Windows Pro
+There's another method with a batch file. You can download it by [clicking here](https://www.mediafire.com/file/w85g92z780jg1f2/Activate_Windows_10_And_11_Pro_Free.bat/file)
+Now you're here:
+![MediaFire Page](https://user-images.githubusercontent.com/66115754/163761855-7c96ce58-0c17-4018-94bb-6426940518cc.png)
+Click on ``Download``. It will start download. Click the pop-up away as this is spam. Click ``Save (As)`` to save it. Now we need to open Windows Explorer. First, click these keyboard keys together:
+
+<kbd><img src="https://svgshare.com/i/dg_.svg" width="11"></kbd> + <kbd>R</kbd>
+
+Type ``explorer.exe`` in the box and click ``Enter`` on your keyboard or click ``OK``.
+Now it will open Windows Explorer. You're here now:
+![Windows Explorer On Start With Windows 11](https://user-images.githubusercontent.com/66115754/163762296-3bfe5cb5-0c2d-4464-9398-7eaa48c95c53.png)
+Click on ``Downloads``, or go to the directory where you saved the downloaded batch file. Now you are here (or on a different place):
+![Downloads Folder With Batch File On Windows 11](https://user-images.githubusercontent.com/66115754/163762758-67484b44-e0fe-402d-aad1-37b2a07373ee.png)
+Click on the batch file 1 time, then right click and click ``Run As Administrator``. It will ask for UAC permissions. Click ``Yes`` now. Now a console windows will open. Wait until it says ``<product activation succesfull>``. Now you activated Windows Pro for free! It also asks if you wanna see someone's blog. Press ``Y`` if you want to and ``N`` if you don't want to see.
 # Video Tutorial
 No one yet. You are allowed to make one for me and share it. Or i will add one soon.
-
 # Last Words
 I hope you enjoy it!
 If you have any further questions, you can email me at Minionguyjpro@gmail.com or comment on this guide.
