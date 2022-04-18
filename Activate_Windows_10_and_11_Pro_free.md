@@ -98,7 +98,7 @@ Type the following commands one for one to activate:
 **Note**: This does not always work. When running ``slmgr /ato`` it does not always work, but keep trying.
 Now you have Windows 10/11 Pro and it activated! You can check settings to see it.
 ## Method 2 For Activating Windows Pro
-There's another method with a batch file. You can download it by [clicking here](https://www.mediafire.com/file/w85g92z780jg1f2/Activate_Windows_10_And_11_Pro_Free.bat/file)
+There's another method with a batch file. You can download it by [clicking here](https://www.mediafire.com/file/w85g92z780jg1f2/Activate_Windows_10_And_11_Pro_Free.bat/file).
 Now you're here:
 ![MediaFire Page](https://user-images.githubusercontent.com/66115754/163761855-7c96ce58-0c17-4018-94bb-6426940518cc.png)
 Click on ``Download``. It will start download. Click the pop-up away as this is spam. Click ``Save (As)`` to save it. Now we need to open Windows Explorer. First, click these keyboard keys together:
