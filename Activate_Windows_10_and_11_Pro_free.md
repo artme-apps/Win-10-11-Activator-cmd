@@ -7,10 +7,13 @@ An guide how to activate Windows 10 AND 11 Pro for free
 * [Getting started](#getting-started)
 * [Method 1 For Activating Windows Pro](#method-1-for-activating-windows-pro)
 * [Method 2 For Activating Windows Pro](#method-2-for-activating-windows-pro)
+* [Method 3 For Activating Windows Pro Permanent](#method-3-for-activating-windows-pro-permanent)
 * [Video Tutorial](#video-tutorial)
 * [Last Words](#last-words)
 ## Why?
-Because you will get some more features like an Bitlocker and host your device as an External Desktop which can be accessed through the internet
+Because you will get some more features like an Bitlocker and host your device as an External Desktop which can be accessed through the internet.
+## Use third method for PERMANENT activation!
+Third is for users with PERMANENT activation. This may require you a Microsoft account to be connected with Windows. Find it by [clicking here](#method-3-for-activating-windows-pro-permanent).
 ## Am i also able to switch from any other edition to Pro?
 The answer is almost yes! You can switch from almost any edition to Pro completely for free!
 ## Note for users with unactivated Pro edition
@@ -121,6 +124,11 @@ Now it will open Windows Explorer. You're here now:
 Click on ``Downloads``, or go to the directory where you saved the downloaded batch file. Now you are here (or on a different place):
 ![Downloads Folder With Batch File On Windows 11](https://user-images.githubusercontent.com/66115754/163762758-67484b44-e0fe-402d-aad1-37b2a07373ee.png)
 Click on the batch file 1 time, then right click and click ``Run As Administrator``. It will ask for UAC permissions. Click ``Yes`` now. Now a console windows will open. Wait until it says ``<product activation succesfull>``. Now you activated Windows Pro for free! It also asks if you wanna see someone's blog. Press ``Y`` if you want to and ``N`` if you don't want to see.
+# Method 3 For Activating Windows Pro Permanently
+This is the method most people may use as this one activates it PERMANENT.
+Download the batch file by [clicking here](https://www.mediafire.com/file/0faj1siygqn2tdy/Windows_10_And_11_Permanent_Activator_Tool.bat/file).
+On this page, click on ``Download``. It will start downloading and click ``Save`` if asked. Now open Windows Explorer. Go to the directory where it got downloaded, and double click it. It will open a Command Prompt Console (Windows Terminal, Windows Console Host or any other). It will soon ask UAC  permissions, and then click ``Yes``. Now when you see a menu with options, click ``2`` on your keyboard. Now wait until it is done! And it is activated!
+
 # Video Tutorial
 No one yet. You are allowed to make one for me and share it. Or i will add one soon.
 # Last Words
