@@ -7,7 +7,7 @@ An guide how to activate Windows 10 AND 11 Pro for free
 * [Getting started](#getting-started)
 * [Method 1 For Activating Windows Pro](#method-1-for-activating-windows-pro)
 * [Method 2 For Activating Windows Pro](#method-2-for-activating-windows-pro)
-* [Method 3 For Activating Windows Pro Permanent](#method-3-for-activating-windows-pro-permanent)
+* [Method 3 For Activating Windows Pro Permanently](#method-3-for-activating-windows-pro-permanently)
 * [Video Tutorial](#video-tutorial)
 * [Last Words](#last-words)
 ## Why?
