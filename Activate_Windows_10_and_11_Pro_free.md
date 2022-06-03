@@ -80,7 +80,7 @@ Now wait until it's 100% and then you get an error (This is normal, this needs t
 
 When you get the error, just click Exit and then reboot your pc.
 
-You will now see an message that he is running updates and is installing features, just wait until its done and check ``info`` in settings, You will see that Windows 10/11 Pro is installed! 
+You will now see an message that he is running updates and is installing features, just wait until its done and check ``info`` in settings, You will see that Windows 10/11 Pro is installed! (**May show Windows Enterprise, but will be Windows pro!!**)
 
 But we are not done, You will see that it isn't activated and that you can't change some settings, now we are gonna fix that!
 ## Method 1 For Activating Windows Pro
