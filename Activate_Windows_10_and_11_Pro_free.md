@@ -19,7 +19,7 @@ The answer is almost yes! You can switch from almost any edition to Pro complete
 ## Note for users with unactivated Pro edition
 People which already have Pro, but not activated, can skip to [this step](https://gist.github.com/Minionguyjpro/d913b3931e844ad8ad9a758a4aca4b63#activating-windows-pro).
 ## I get a notification: ``Your Windows license will expire soon`` or something that way. What do i do?
-Don't worry. It will get renewed, if not then i will update this guide as soon as i can and make sure it is up-to-date so you can stay enjoy your free license. **For users which used this guide to activate with the first or second method and now get this message everytime, use the third method to activate it forever.**
+Don't worry. You need to run the script again, but a recommendation: **For users which used this guide to activate with the first or second method and now get this message everytime, use the third method to activate it forever.**
 ## Getting started
 What you first need to do is open CMD (Command Prompt) as Administrator using this keyboard key:
 
@@ -131,4 +131,4 @@ Now it will start downloading this file and click ``Save`` if asked. Now open Wi
 No one yet. You are allowed to make one for me and share it. Or i will add one soon.
 # Last Words
 I hope you enjoy it!
-If you have any further questions, you can email me at Minionguyjpro@gmail.com or comment on this guide.
+If you have any further questions or need further help, you can email me by clicking [this link](mailto:Minionguyjpro@gmail.com) or email me at Minionguyjpro@gmail.com. You can also comment on this guide.
